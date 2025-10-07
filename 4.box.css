@@ -1,0 +1,28 @@
+body{
+    border:1px solid;
+}
+#box1{
+    border: 2px solid;
+    width: 625px;
+    height: 200px;
+    background: greenyellow;
+    margin-top: ;
+}
+#box2{
+    border: 2px solid;
+    width: 255px;
+    height: 500px;
+    background:yellow;
+}
+#box3{
+    border: 2px solid;
+    width: 300px;
+    height: 500px;
+    background:blue;
+}
+#box4{
+    border: 2px solid;
+    width: 250px;
+    heigth: 250px;
+    background: green
+}
