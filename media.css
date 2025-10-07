@@ -1,0 +1,8 @@
+body{
+    background-color: teal;
+}
+@media all and (min-width: 320px) and (max-width: 767px){
+    body{
+        background-color: pink;
+    }
+}
