@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    color:rgb(231, 14, 14);
+    font-family:"Grey Qo"
+}
+p{
+    color:blue;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+}
+#p1{
+    color: rgb(7, 153, 53);
+    text-decoration: cyan wavy underline;
+}
+h2{
+    color:aliceblue;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-right-style: dotted;
+    border-left-color: blueviolet;
+    border-left-width: 10px;
+}
+#p2{
+    border-style:outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+}
