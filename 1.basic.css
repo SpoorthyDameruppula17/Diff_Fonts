@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+}
+
+#p2{
+    color:yellow; background-color:white;
+}
+
+p{
+    color:brown; background-color:white;
+}
+.odd{
+    color:blue; background-color:antiquewhite;
+}
