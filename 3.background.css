@@ -1,0 +1,17 @@
+body{
+    background-image: url("img.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#div1{
+    background: linear-gradient(skyblue, green);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#div2{
+    background: linear-gradient(to left, green, white);
+    backgrounf-repeat: no-repeat;
+    background-attachment: fixed;
+}
